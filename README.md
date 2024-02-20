@@ -1,2 +1,2 @@
 # DocsToPDFConversion
-Automate Google Sheets data to generate a pdf link
+Automate Google Sheets data to generate a PDF link
